@@ -97,6 +97,19 @@ All visualizations were designed to support clear data-driven conclusions.
 
 ---
 
+## 📷 Sample Visualizations
+
+### Survival by Gender
+![Survival by Gender](survival_by_gender.png)
+
+### Survival by Passenger Class
+![Survival by Class](survival_by_class.png)
+
+### Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+---
+
 ## 🏁 Final Conclusion
 
 Survival on the Titanic was not random.  
